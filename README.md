@@ -1,2 +1,2 @@
 # fizzbuzz-terbalik
-Programming challenge with Eunu
+Programming challenge with Ruby
